@@ -1,6 +1,69 @@
+
+
+
+*{
+    list-style: none;
+    text-decoration: none;
+    border-collapse: collapse;
+    margin:0px;
+    padding: 0px;
+    color: #000;
+  }
+
+
 .hidden{
     display: none;
 }
 
 
+body{/*
+  background-color: black;
+ height: 100vh;
+ background-image: url('img/wooden.jpg') ;
+ background-size: cover;
+ background-repeat: no-repeat;
+ position: absolute;*/
+ margin: 0;
+ padding: 0;
+ height: 100%;
+}
 
+.container{
+  min-height: 100vh;
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-image: url(img/sky.jpg);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+#login-form{
+  background-color: red;
+}
+
+
+
+#clock{
+  background-color: green;
+}
+
+#todo-form{
+  background-color: thistle;
+}
+
+#todo-list{
+  background-color: yellowgreen;
+}
+
+#quote{
+  background-color: violet;
+}
+
+#weather{
+  background-color: turquoise;
+}

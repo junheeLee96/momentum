@@ -12,36 +12,36 @@ const quotes = [
         , author: "John Lennon",
     },
     {
-        quote: "33333333333333ly"
-        , author: "33333333333ne",
+        quote: "Some people can't believe in themselves until someone else believes in them first."
+        , author: "Sean Maguire, Good Will Hunting",
     },
         {
-        quote: "444444444444"
-        , author: "s44444444gustine",
+        quote: "It's only after we've lost everything that we're' free to do anything"
+        , author: "Fight Club, Tyler Durden",
     },
             {
-        quote: "T555555555555555"
-        , author: "s55555555555ugustine",
+        quote: "It is not our abilities that sho what we truly are.... it is our choices"
+        , author: "Dumbledore, Harry Potter and the Chanber of Secrets",
     },
                 {
-        quote: "666666666"
-        , author: "6666666 Augustine",
+        quote: "Every man dies, not every man really lives"
+        , author: "Braveheart",
     },
                     {
-        quote: "77777777"
-        , author: "saint Augustine",
+        quote: "Ikonw what i have to do now. I've got to keep breathing because tomorrow the sun will rise"
+        , author: "Cast Away",
     },
                         {
-        quote: "T888"
-        , author: "8888 Augustine",
+        quote: "The hardes choices require the strong wills."
+        , author: "Thanos",
     },
     {
-        quote: "9-last"
-        , author: "9 Augustine",
+        quote: "The merit of an action lines in finishing it to the end "
+        , author: "Genghis Khan",
     },
         {
-        quote: "10-the last"
-        , author: "10 Augustine",
+        quote: "Never underestimate your own ignorance."
+        , author: "Albert Einstein",
     }
 ]
 

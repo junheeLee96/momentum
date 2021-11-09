@@ -10,32 +10,37 @@
 </head>
 
 <body>
-    <form id="login-form" >
-        <input required maxlength="15" type="text" placeholder="What is your name?" ? />
-        <button>Login</button>
-    </form>
-    <h2 id = "clock">00:00</h2>
-    <h1 id ="greeting" class="hidden"></h1>
-    <form id = "todo-form">
-        <input type="text" placeholder="Write a To Do and Press Enter"/>
-    </form>
-    <ul id="todo-list"></ul>
-    <div id ="quote">
-        <span></span>
-        <span></span>
-    </div>
-    <div id = "weather">
-        <span></span>
-        <span></span>
+    <div id = "backgrounds" class = "container">
+
+        <form id="login-form" >
+            <input required maxlength="15" type="text" placeholder="What is your name?" ? />
+            <button>Login</button>
+        </form>
+        <h1 id ="greeting" class="hidden"></h1>
+        <h2 id = "clock">00:00</h2>
+        <form id = "todo-form">
+            <input type="text" placeholder="Write a To Do and Press Enter"/>
+        </form>
+        <ul id="todo-list"></ul>
+        <div id ="quote">
+            <span></span>
+            <span></span>
+        </div>
+        <div id = "weather">
+            <span></span>
+            <span></span>
+        </div>
+        
     </div>
     
+    <script src="background.js"></script>
     <script src="greetings.js"></script>
     <script src="clock.js"></script>
     <script src="quotes.js"></script>
-    <script src="background.js"></script>
+  
     <script src="todo.js"></script>
     <script src="weather.js"></script>
-
+    
 
 
 </body>
